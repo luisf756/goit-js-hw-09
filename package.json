@@ -15,7 +15,7 @@
   "author": "LFMG Repeta <luchof756@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/luisf756/goit-js-hw-08/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
