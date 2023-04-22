@@ -1,0 +1,1 @@
+{"mappings":"ACCC","sources":["01-color-switcher.60b471ce.css","src/css/01-color.css"],"sourcesContent":["button {\n  width: 90px;\n  height: 60px;\n}\n\n/*# sourceMappingURL=01-color-switcher.60b471ce.css.map */\n"," \n button { \n    width: 90px;\n    height: 60px; \n    \n  }"],"names":[],"version":3,"file":"01-color-switcher.60b471ce.css.map"}
